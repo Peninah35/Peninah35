@@ -1,0 +1,37 @@
+HEADINGS
+## My Learning Goals
+### This Semester
+TEXT FORMATTING
+**I learning AI**
+* I learning AI*
+  ~~I learning AI~~
+ LINKS
+ [Github profile] {https://github.com/peninah35}
+[LinkedIn]{https://linkedin.com/in/peninahbarasa}
+LISTS
+-Git bash
+   -git control
+-repositories
+    -commits
+ TABLES
+		TOOL         PURPOSE                                                       LINK
+		Github       platform for version control and collaboration                 https://github.com/peninah35
+		Gitbash       is command-line terminal that lets you use Git on windows      """c:/program Files\Git\bin\sh.exe"
+  TASKLIST
+  -[X] Assignment task 1and 2
+  -[] assignment task 3
+  -[]assignment task 4 and 5
+  CODE BLOCK
+  except Exception as e:
+  print{f"X Failed to open Git Bash: {e"}
+  BLOCKQUOTE:
+  "The best way to predict the future is to implement it"Adapted from Alan Kay
+  in the markdown features
+   Headings # to #####
+   Bold **text**or_text_
+  italic *text* or_text_
+  ~~Strikethrough~  ~~text~
+  inline code `code`
+  links [text]{url}
+  images ![alt]{url}
+    
